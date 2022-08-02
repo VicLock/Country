@@ -1,0 +1,80 @@
+header {
+	background-color: purple;
+	border-radius: 50%;
+	text-align: center;
+}
+figure {
+	text-align: center;
+    width: 960px;
+    height: 500px;
+    margin-left: 280px;
+    margin-bottom: -227px;
+    text-align: center;
+	width: 960px;
+	height: 450px;
+	margin-left: 280px;
+	margin-bottom: -227px;
+}
+figure img {
+	width: 270px;
+    height: 176px;
+    border: 2px solid black;
+    margin-top: 10px;
+
+
+}
+.pai {
+	border: 2px solid purple;
+    width: 290px;
+    height: 478px;
+    display: inline-block;
+    margin-right: 12px;
+    margin-top: 20px;
+    margin-left: 9px;
+}
+.mae {
+	display: inline-block;
+}
+.mae h3 {
+	width: 290px;
+    margin-left: 305px;
+    margin-right: -280px;
+    margin-top: -393px;
+    font-size: 15px;
+    text-align: left;
+    display: inline-block;
+}
+
+.prima p {
+    font-size: 14px;
+    font-family: arial;
+    text-align: justify;
+    margin-left: 304px;
+    margin-right: 10px;
+    display: inline-block;
+    width: 265px;
+    margin-top: -9px;
+}
+
+.tia p {
+    font-size: 14px;
+    font-family: arial;
+    text-align: justify;
+    margin-left: 943px;
+    margin-right: 10px;
+    display: inline-block;
+    width: 265px;
+    margin-top: -217px;
+    vertical-align: top
+}
+
+.tio p {
+    font-size: 14px;
+    font-family: arial;
+    text-align: justify;
+    margin-left: 624px;
+    margin-right: 10px;
+    display: inline-block;
+    width: 265px;
+    margin-top: -164px;
+}
